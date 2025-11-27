@@ -1,0 +1,70 @@
+# WABUN Digital - .gitignore
+
+# Entorno virtual de Python
+wabun_env/
+venv/
+env/
+ENV/
+
+# Archivos de ChromaDB (base de datos local)
+wabun_db/
+demo_wabun_db/
+caelion_memoria/
+*.db
+*.sqlite
+*.sqlite3
+chroma.sqlite3
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Archivos de distribución
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de prueba
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Archivos de respaldo
+backup.json
+*.backup
+
+# Archivos temporales
+tmp/
+temp/

@@ -1,0 +1,13 @@
+# WABUN Digital - Dependencias de Python
+# Instalación: pip install -r requirements.txt
+
+# Base de datos vectorial
+chromadb>=0.4.0
+
+# Dependencias opcionales para embeddings mejorados
+# Descomenta las siguientes líneas si quieres usar modelos locales más potentes:
+# sentence-transformers>=2.2.0
+# torch>=2.0.0
+
+# Para integración con OpenAI embeddings (opcional)
+# openai>=1.0.0
