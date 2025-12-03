@@ -1,4 +1,5 @@
-# WABUN Digital: Sistema de Memoria Persistente para CAELION
+# WABUN Digital: Sistema de Memoria Persistente  para CAELION  
+*Persistent Memory and Contextual Coherence System for Symbiotic Cognitive Architectures (CAELION Core)*  
 
 ![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)
